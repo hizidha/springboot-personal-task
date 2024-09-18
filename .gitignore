@@ -31,14 +31,3 @@ build/
 
 ### VS Code ###
 .vscode/
-
-.idea
-.mvn
-.mvn/
-
-src
-src/
-
-mvnw
-mvnw.cmd
-pom.xml
